@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/pingcode",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ping URLs and code query parts with stable normalization.",
+  "bin": {
+    "pingcode": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/pingcode.git"
+  },
+  "homepage": "https://theworker02.github.io/pingcode/",
+  "keywords": [
+    "ping",
+    "code",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
